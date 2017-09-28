@@ -93,7 +93,7 @@ open class CustomXibView: UIView {
     private func textFor(viewFromXibProblem: ViewFromXibProblem) -> String {
         switch viewFromXibProblem {
         case .nilBundle:
-            if self.xibName == "CustomView" {
+            if self.xibName == "CustomXibView" {
                 return "Provide Xib Name"
             }
             return "Cannot find \(self.xibName).xib"
