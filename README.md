@@ -18,7 +18,7 @@ If you view is not complicated, you can just:
 - Set its class to CustomXibView in Identity Inspector
 - Set the name of your custom xib view in Attributes Inspector
 
-![Alt Text](https://github.com/{user}/{repo}/raw/master/example1.gif)
+![Alt Text](https://github.com/Peterek/custom-xib-view/raw/master/example1.gif)
 
 ### Deriving from CustomXibView
 
@@ -42,7 +42,7 @@ class BTCView: CustomXibView {
 }
 ```
 
-![Alt Text](https://github.com/{user}/{repo}/raw/master/example2.gif)
+![Alt Text](https://github.com/Peterek/custom-xib-view/raw/master/example2.gif)
 
 ### Creating CustomXibView programmatically
 
